@@ -1,0 +1,11 @@
+<footer class="post-footer">
+    <h3>Browse Cities</h3>
+    <nav class="cities">
+        {% for item in site.cities %}
+            {% if item.title != null %}
+                <a class="button {% if page.url == item.url %}active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
+            {% endif %}
+        {% endfor %}
+    </nav>
+    <a class="button" href="{{ "/"  | prepend: site.baseurl  }}">Return to index</a>
+</footer>
