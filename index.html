@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+{% include parallax.html url="/assets/images/cover.jpg" size="80vh" %}
+
+<header id="index">
+    <h1>{{site.title}}</h1>
+    <p class="description">{{ site.description }}</p>
+    
+    <nav class="pages">
+        {% for item in site.pages %}
+            {% if item.title != null and item.layout == "page" %}
+                <a class="button {% if page.url == item.url %}active{% endif %}"
+                   href="{{ item.url }}"
+                >{{ item.title }}</a>
+            {% endif %}
+        {% endfor %}
+    <nav>
+    
+
+</header>
+
+<main id="index">
+    <!-- This is the place where all the cities are placed on the map. -->
+    <nav class="cities">
+        {% for city in site.cities %}
+            <a class="map-pin" style="top: {{ city.location.y }}px; left: {{ city.location.x }}px;" href="{{ city.url }}"></a>
+            <div class="map-tooltip" style="top: {{ city.location.y }}px; left: {{ city.location.x }}px;"></div>
+        {% endfor %}
+        <img usemap="#cities" src="assets/images/map.jpg">
+    </nav>
+    
+    {% for post in paginator.posts %}
+        <article>
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <section class="excerpt">
+                <p>{{ post.content | strip_html | truncatewords: 100 }}</p>
+            </section>
+            <hr>
+            <div class="post-meta">
+                Posted on
+                <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+                {% for tag in post.tags %}
+                    {% if forloop.index == 1 %}, into
+                    {% elsif forloop.index == forloop.length -1 %}
+                        {% if forloop.index != 2 %},{% endif %} and
+                    {% else %},
+                    {% endif %}
+                    <span><a href="/tag/{{tag | downcase | slugify}}/">{{tag}}</a></span>
+                {% endfor %}.
+            </div>
+        </article>
+    {% endfor %}
+</main>
+
+<nav class="pagination" role="navigation">
+    {% if paginator.next_page %}
+        <a class="newer-posts" href="/archive/{{paginator.next_page}}">&larr; Older posts</a>
+    {% endif %}
+    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.previous_page %}
+        {% if paginator.page == 2 %}
+            <a class="older-posts" href="/">Newer posts &rarr;</a>
+        {% else %}
+            <a class="older-posts" href="/archive/{{paginator.previous_page}}">Newer posts &rarr;</a>
+        {% endif %}
+    {% endif %}
+</nav>
+
+{% include footer.html %}

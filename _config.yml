@@ -1,0 +1,33 @@
+# Site settings
+title: People Of Palestine
+description: >
+  A collection of stories about the peoples of Palestine.
+url: "http://people-of-palestine.org"
+baseurl: ""
+
+collections:
+  cities:
+    output: true
+    permalink: /city/:path/
+
+defaults:
+  - scope:
+        type: cities
+    values:
+        layout: city
+
+# Media
+cover: "/assets/images/cover.jpg"
+logo: "/assets/images/logo.png"
+
+# Build settings
+paginate: 10
+paginate_path: "/archive/:num"
+permalink: pretty
+sass:
+  style: compressed
+
+# Tagging
+tag_page_layout: tag
+tag_page_dir: tag
+tag_permalink_style: pretty
