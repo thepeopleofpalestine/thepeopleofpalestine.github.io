@@ -7,7 +7,7 @@ layout: default
 <header id="index">
     <h1>{{site.title}}</h1>
     <p class="description">{{ site.description }}</p>
-    
+
     <nav class="pages">
         {% for item in site.pages %}
             {% if item.title != null and item.layout == "page" %}
@@ -17,20 +17,31 @@ layout: default
             {% endif %}
         {% endfor %}
     <nav>
-    
+
 
 </header>
 
 <main id="index">
     <!-- This is the place where all the cities are placed on the map. -->
-    <nav class="cities">
+    <figure id=map>
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4032 6048" preserveAspectRatio="xMinYMin meet">
+        <image width="4032" height="6048" xlink:href="assets/images/map.jpg"></image>
         {% for city in site.cities %}
-            <a class="map-pin" style="top: {{ city.location.y }}px; left: {{ city.location.x }}px;" href="{{ city.url }}"></a>
-            <div class="map-tooltip" style="top: {{ city.location.y }}px; left: {{ city.location.x }}px;"></div>
+
+            <a id="{{ city.name }}" class="city" xlink:href="{{ city.url }}">
+              <circle cx="{{ city.location.x }}" cy="{{ city.location.y }}" r="50" />
+            </a>
+            <g class="tooltip">
+              <rect x="{{ city.location.x | plus: 50 }}" y="{{ city.location.y | plus: 50 }}" width=200 height=60 />
+              <text x="{{ city.location.x | plus: 55 }}" y="{{ city.location.y | plus: 105 }}"	fill=white font-size=50 alignment-baseline="middle" text-anchor="start">
+                {{ city.name }}
+              </text>
+            </g>
+
         {% endfor %}
-        <img usemap="#cities" src="assets/images/map.jpg">
-    </nav>
-    
+      </svg>
+  </figure>
+
     {% for post in paginator.posts %}
         <article>
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
