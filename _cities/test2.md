@@ -11,3 +11,5 @@ synopsis: |
 ---
 
 Here is the **main** body of the article about the city.
+
+![Blah blah](/assets/images/Turknip.jpg)
