@@ -1,5 +1,5 @@
 ---
-name: Test
+name: Jericho
 location:
     x: 450
     y: 450
