@@ -1,8 +1,8 @@
 ---
 name: Test
 location:
-    x: 150
-    y: 150
+    x: 450
+    y: 450
 thumbnail: null
 synopsis: |
     This is a synopsis.
