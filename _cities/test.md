@@ -30,10 +30,10 @@ The situation in Hebron is particularly harrowing. Hebron is a Palestinian city 
 **_Administrative system of control_**: The foundation for the control of movement is the “permit system.” In May 2002, the Israeli Defense Forces (IDF) cancelled the “general exit permit” and since then, Palestinians living under Israeli military occupation have been required to have written permission (from Israel) to move between, and within, the occupied Palestinian territories. Under this system, virtually no one is permitted to enter or leave Gaza, less than 10% of Palestinians can leave the West Bank, while the West Bank itself is internally divided into eight isolated, non-contiguous regions with movement controlled by the Israeli Defense Forces (IDF) and contractors. The requirements for obtaining a permit are supposedly set out in protocols and procedures issued by the Israeli authorities, but most are not publically available in English or Arabic. 
 
 In 2015, there existed more than 100 different types of permits, broadly divided into the following categories: 
-1. Civil and political rights including permits for movement, residency, for “closed areas” such as Seam Zones, and travel. 
-2. Economic rights including permits for work, farming, trade and money transfer. 
-3. Cultural rights including permits for education, worshippers and visiting holy sites. 
-4. Social rights including permits for construction, renovation and health.
+* Civil and political rights including permits for movement, residency, for “closed areas” such as Seam Zones, and travel. 
+* Economic rights including permits for work, farming, trade and money transfer. 
+* Cultural rights including permits for education, worshippers and visiting holy sites. 
+* Social rights including permits for construction, renovation and health.
 
 The issuing of permits is at the discretion of Israeli authorities, through the [Coordinator of Government Activities in the Territories unit](http://www.cogat.idf.il/1026-en/IDFG.aspx), which is responsible for implementing and coordinating the Israeli government’s policies in the West Bank and the Gaza Strip. COGAT is subordinate to the Israeli Ministry of Defense, meaning the Israeli Defense Forces control both policy and the enforcement of policy. 
 
