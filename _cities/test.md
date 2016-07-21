@@ -37,4 +37,10 @@ In 2015, there existed more than 100 different types of permits, broadly divided
 
 The issuing of permits is at the discretion of Israeli authorities, through the [Coordinator of Government Activities in the Territories unit](http://www.cogat.idf.il/1026-en/IDFG.aspx), which is responsible for implementing and coordinating the Israeli government’s policies in the West Bank and the Gaza Strip. COGAT is subordinate to the Israeli Ministry of Defense, meaning the Israeli Defense Forces control both policy and the enforcement of policy. 
 
+**_Physical system of control_**: Physical movement of Palestinians is controlled via physical obstructions inside the West Bank, including dirt mounds, concrete blocks placed in roads, trenches and the wall. According to the 1993 Oslo Interim Agreement – which should have led to final status negotiations in 1999 - the movement of people and vehicles in the West Bank should “without derogating from Israel’s security powers and responsibilities, be free and normal, and shall not need to be effected through checkpoints or roadblocks.” Furthermore, it is recognized that the West Bank and Gaza should be maintained as a “single territorial unit … respecting and preserving without obstacles, normal and smooth movement of people.” 
+This is not the reality for Palestinians, as Palestinian traffic is funnelled onto secondary and often lower-quality routes, or blocked altogether.
+
+In 2015 there were [490 permanent or semi-permanent](http://www.ohchr.org/Documents/Countries/PS/SG_Report_FoM_Feb2016.pdf) closures. 
+
+ 
 
