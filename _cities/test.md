@@ -13,6 +13,8 @@ synopsis: |
 
 ### Personal Stories
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/et2muVDhIrY" frameborder="0" allowfullscreen></iframe> 
+
 [Pharmacist in Hebron](https://www.youtube.com/watch?v=et2muVDhIrY) [Issa in Hebron](Need to input the youtube link)
 
 {% include parallax.html url="/assets/images/cover.jpg" height="700px" %}
