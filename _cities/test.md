@@ -82,12 +82,14 @@ How, then, is Israel able create, sustain, and justify such apartheid policies? 
 
 
 ### Resources
+
 *[Interactive Map of restrictions](http://www.btselem.org/map)
 *[Hebron – mapping the apartheid](https://www.hebronapartheid.org/)
 *[Ecumenical Accompaniment program in Palestine and Israel](http://eappi.org/en/)
 *[Report of the Secretary-General to the United Nations Human Rights Council, February 2016 Freedom of Movement: Human rights situation in the Occupied Palestinian Territory, including East Jerusalem](http://www.ohchr.org/Documents/Countries/PS/SG_Report_FoM_Feb2016.pdf#Page%2013)
 
 ### Resources
+
 *[Badil – Working Paper 18 – Forced Population Transfer: Instalment of a Permit Regime](http://badil.org/en/publication/research/working-papers.html?download=1194:working-paper-18)
 *[Badil Occasional Bulletin 12. The Permit Maze: Palestinians needs permits to move, to live, for everything](http://www.badil.org/phocadownloadpap/Badil_docs/bulletins-and-briefs/Bulletin-12.pdf)
 *[UN Universal Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/)
