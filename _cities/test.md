@@ -9,14 +9,11 @@ synopsis: |
  
 ---
 
+ # Freedom of Movement
 
-        # Freedom of Movement
+### Personal Stories
 
-### Personal Story
-
-[Pharmacist in Hebron](https://www.youtube.com/watch?v=et2muVDhIrY)
-
-[Issa in Hebron](Need to input the youtube link)
+[Pharmacist in Hebron](https://www.youtube.com/watch?v=et2muVDhIrY) [Issa in Hebron](Need to input the youtube link)
 
 {% include parallax.html url="/assets/images/cover.jpg" height="700px" %}
 
