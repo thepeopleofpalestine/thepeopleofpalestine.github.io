@@ -9,7 +9,7 @@ synopsis: |
  
 ---
 
- # Freedom of Movement
+# Freedom of Movement
 
 ### Personal Stories
 
