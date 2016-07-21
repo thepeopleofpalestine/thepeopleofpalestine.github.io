@@ -30,6 +30,7 @@ The situation in Hebron is particularly harrowing. Hebron is a Palestinian city 
 **_Administrative system of control_**: The foundation for the control of movement is the “permit system.” In May 2002, the Israeli Defense Forces (IDF) cancelled the “general exit permit” and since then, Palestinians living under Israeli military occupation have been required to have written permission (from Israel) to move between, and within, the occupied Palestinian territories. Under this system, virtually no one is permitted to enter or leave Gaza, less than 10% of Palestinians can leave the West Bank, while the West Bank itself is internally divided into eight isolated, non-contiguous regions with movement controlled by the Israeli Defense Forces (IDF) and contractors. The requirements for obtaining a permit are supposedly set out in protocols and procedures issued by the Israeli authorities, but most are not publically available in English or Arabic. 
 
 In 2015, there existed more than 100 different types of permits, broadly divided into the following categories: 
+
 1. Civil and political rights including permits for movement, residency, for “closed areas” such as Seam Zones, and travel. 
 2. Economic rights including permits for work, farming, trade and money transfer. 
 3. Cultural rights including permits for education, worshippers and visiting holy sites. 
@@ -50,11 +51,11 @@ International law allows for occupying powers to use drastic measures as require
 
 #### International Law and its application to Freedom of Movement
 
-*4th Geneva Convention (Art 27 & 64)** - While certain restrictions on freedom of movement are allowed under international law, including for reasons of security, they must be strictly necessary for that purpose, proportionate and non-discriminatory.
-*International Human Rights Law (Article 13)** - (1) Everyone has the right to freedom of movement and residence within the borders of each state.
+* 4th Geneva Convention (Art 27 & 64)** - While certain restrictions on freedom of movement are allowed under international law, including for reasons of security, they must be strictly necessary for that purpose, proportionate and non-discriminatory.
+* International Human Rights Law (Article 13)** - (1) Everyone has the right to freedom of movement and residence within the borders of each state.
 (2) Everyone has the right to leave any country, including his own, and to return to his country.
-*International Humanitarian Law (Rule 88, 139)** - The occupying Power retains positive obligations to ensure the welfare of the population, including the provision of medical supplies. Additionally, non-discrimination is also relevant, especially in relation to the differential treatment of settlers and Palestinians living in the Occupied Palestinian Territory.
-*Universal Declaration of Human Rights (Article 13) & International Covenant on Civil and Political Rights (12)** – Freedom of movement is a human right, yet the individual permit regime makes it a privilege to be granted or denied by Israeli authorities as an exception to the norm. While protection of national security may justify some restrictions in specific circumstances, the requirement that applicants meet narrowly defined criteria, such as visiting a sick relative or requiring hospital treatment, constitutes a fundamental breach. The relation between rights and restrictions must not be reversed, and freedom of movement must not be made dependent on any particular purpose or reason.
+* International Humanitarian Law (Rule 88, 139)** - The occupying Power retains positive obligations to ensure the welfare of the population, including the provision of medical supplies. Additionally, non-discrimination is also relevant, especially in relation to the differential treatment of settlers and Palestinians living in the Occupied Palestinian Territory.
+* Universal Declaration of Human Rights (Article 13) & International Covenant on Civil and Political Rights (12)** – Freedom of movement is a human right, yet the individual permit regime makes it a privilege to be granted or denied by Israeli authorities as an exception to the norm. While protection of national security may justify some restrictions in specific circumstances, the requirement that applicants meet narrowly defined criteria, such as visiting a sick relative or requiring hospital treatment, constitutes a fundamental breach. The relation between rights and restrictions must not be reversed, and freedom of movement must not be made dependent on any particular purpose or reason.
 
 
 ### Deconstructing the Narrative 
