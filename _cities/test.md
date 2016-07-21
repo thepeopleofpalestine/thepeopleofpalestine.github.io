@@ -8,14 +8,17 @@ synopsis: |
     Herbon is a Palestinian city, population ~ 250 000, located in the south of the West Bank. For years, decades in fact, it was the industrial engine of the region. The city is home to religiously significant sites including the tombs or sanctuaries of Abraham and Sarah, Isaac and Rebecca, Jacob and Leah. Today, the city exists under difficult circumstances; it is a microcosm of the occupation. Freedom of movement in Hebron is extremely restricted, as soldiers control access through checkpoints and barriers, and settlers occupy the heart of the city. 
  
 ---
-{% include parallax.html url="/assets/images/cover.jpg" height="700px" %}
-## Freedom of Movement
+
+
+:-------# Freedom of Movement--------:
 
 ### Personal Story
 
 [Pharmacist in Hebron](https://www.youtube.com/watch?v=et2muVDhIrY)
 
 [Issa in Hebron](Need to input the youtube link)
+
+{% include parallax.html url="/assets/images/cover.jpg" height="700px" %}
 
 ### Background
 
