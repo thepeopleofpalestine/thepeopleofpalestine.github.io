@@ -35,10 +35,10 @@ The situation in Hebron is particularly harrowing. Hebron is a Palestinian city 
 
 In 2015, there existed more than 100 different types of permits, broadly divided into the following categories: 
 
-1. Civil and political rights including permits for movement, residency, for “closed areas” such as Seam Zones, and travel. 
-2. Economic rights including permits for work, farming, trade and money transfer. 
-3. Cultural rights including permits for education, worshippers and visiting holy sites. 
-3. Social rights including permits for construction, renovation and health.
+* Civil and political rights including permits for movement, residency, for “closed areas” such as Seam Zones, and travel. 
+* Economic rights including permits for work, farming, trade and money transfer. 
+* Cultural rights including permits for education, worshippers and visiting holy sites. 
+* Social rights including permits for construction, renovation and health.
 
 The issuing of permits is at the discretion of Israeli authorities, through the [Coordinator of Government Activities in the Territories unit](http://www.cogat.idf.il/1026-en/IDFG.aspx), which is responsible for implementing and coordinating the Israeli government’s policies in the West Bank and the Gaza Strip. COGAT is subordinate to the Israeli Ministry of Defense, meaning the Israeli Defense Forces control both policy and the enforcement of policy. 
 
