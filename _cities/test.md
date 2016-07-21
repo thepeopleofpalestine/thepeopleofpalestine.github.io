@@ -13,7 +13,9 @@ synopsis: |
 
 ### Personal Stories
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/et2muVDhIrY" frameborder="0" allowfullscreen></iframe> 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/et2muVDhIrY" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qBEFqy2Zk80" frameborder="0" allowfullscreen></iframe>
 
 [Pharmacist in Hebron](https://www.youtube.com/watch?v=et2muVDhIrY) [Issa in Hebron](Need to input the youtube link)
 
