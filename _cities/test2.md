@@ -10,7 +10,7 @@ synopsis: |
     And allows for **simple** formatting.
 gallery:
     -  description: Blah balh
-        image : /assets/images/
+       image : /assets/images/
 ---
 
 Here is the **main** body of the article about the city.
