@@ -118,6 +118,14 @@ div.parallax {
     }
 }
 
+#ps-open {
+  img {
+    max-width: 32%;
+    max-height: 400px;
+    display: inline-block;
+  }
+}
+
 #map {
   position: relative;
   width: 100%;

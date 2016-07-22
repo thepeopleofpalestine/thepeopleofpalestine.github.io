@@ -35,10 +35,16 @@
   <link rel="stylesheet" href="https://code.cdn.mozilla.net/fonts/fira.css">
   <link rel="stylesheet" type="text/css" media="screen" href="{{ "/assets/main.css"  | prepend: site.baseurl  }}" />
 
+  <!-- Photoswipe gallery assets -->
+  <link rel="stylesheet" href="/assets/lib/photoswipe/photoswipe.css">
+  <link rel="stylesheet" href="/assets/lib/photoswipe/default-skin/default-skin.css">
+  <script src="/assets/lib/photoswipe/photoswipe.min.js"></script>
+  <script src="/assets/lib/photoswipe/photoswipe-ui-default.min.js"></script>
+
   <script>
   // Create captions from Alt tags
   document.addEventListener("DOMContentLoaded", function(event) {
-    Array.from(document.querySelectorAll("main img")).forEach(function (item) {
+    Array.from(document.querySelectorAll("main img[alt]")).forEach(function (item) {
       if (item.attributes['alt']) {
         var caption = document.createElement("figcaption");
         caption.innerHTML = item.attributes['alt'].value;
