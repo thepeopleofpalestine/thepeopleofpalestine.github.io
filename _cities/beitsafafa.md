@@ -10,7 +10,7 @@ synopsis: |
 
 ---
 
-## Identity and Citizenship Law 
+# Identity and Citizenship Law 
 
 ### Personal Story: 
 
@@ -20,7 +20,7 @@ Chilean Palestinian:
 
 Podcast
 
-## Background
+### Background
 
 Israeli citizenship, is separate from nationality, and exists in hierarchical structure. Citizenship is available to all Jewish Nationals, and also non-Jews who were present in Israel – not the West Bank or Gaza – in 1948. This ability to obtain Israeli citizenship is extended to the decedents of Palestinians in Israel, but should they wish to move out of Israel, they would lose their – and their decedents – eligibility for citizenship. Those who were forced to leave during the 1948 catastrophe, where Zionist militias expelled Arabs from their lands, are not eligible for Israeli citizenship. This affects most Palestinians who were present in what Israel defined as ‘enemy territory’, including the West Bank and Gaza, in 1948. Today, Palestinians who live within Israel’s borders and are known as Arab Israelis or Arab Israelis of Palestinian descent. In theory, these Palestinians have civil rights within Israel, and are subject to Israeli civil law. The reality is, Palestinian Israelis are not Jewish nationals, and therefore are systematically discriminated against. 
 
