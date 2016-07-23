@@ -1,5 +1,5 @@
 ---
-name: Test2
+name: Beit Safafa
 location:
     x: 250
     y: 150
@@ -18,8 +18,14 @@ gallery:
       w: 900
 ---
 
-Here is the **main** body of the article about the city.
+## Identity and Citizenship Law ##
 
-![Blah blah](/assets/images/Turknip.jpg)
+Personal Story: 
+
+Kris and Tarik in Beit Saffafa and registering Louisa:
+
+Chilean Palestinian: 
+
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/diaCHYO7haY" frameborder="0" allowfullscreen></iframe>
+
