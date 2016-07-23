@@ -50,7 +50,7 @@ Palestinian identification systems are complex and confusing. Identification is 
 
 ### Israeli narrative
 
-<iframe src='http://players.brightcove.net/665003303001/SJg0bzqkZ_default/index.html?videoId=4934828344001' allowfullscreen frameborder=0></iframe>
+<iframe width="560" height="315" src='http://players.brightcove.net/665003303001/SJg0bzqkZ_default/index.html?videoId=4934828344001' allowfullscreen frameborder=0></iframe>
 
 **Israel is the only democracy in the Middle East** – _Israeli Prime Minister Benjamin Netanyahu_
 
