@@ -96,5 +96,22 @@ Publically, Israel touts itself as the “only democracy in the Middle East.” 
 
 No reference to terrorism, security, the holocaust, or anti-Semitism can serve as a reasonable explanation for an apartheid system where one person is privileged over another, because of where and to whom they were born. The system is inherently discriminatory. It is not democratic and only appears democratic if you don’t understand the mechanics. Upon further investigation, the system is at its very core, undemocratic based on ethno religious apartheid. 
 
+### **Resources**:
+* [Visualizing Palestine](http://visualizingpalestine.org/visuals)
+* [Badil diagram of citizenship rights](http://badil.org/phocadownload/Badil_docs/publications/wp16-Residency.pdf)
+* [Laws that discriminate against Palestinians](http://www.badil.org/phocadownloadpap/Badil_docs/bulletins-and-briefs/bulletinno.26.pdf)
+
+### **References**: 
+* [Forced Population Transfer: the case of Palestine Working Paper No. 16 April 2014 Denial of Residency. BADIL Resource Center for Palestinian Residency & Refugee Rights](http://badil.org/phocadownload/Badil_docs/publications/wp16-Residency.pdf)
+* [One People United: A Deterritorialized Palestinian Identity BADIL Survey of Palestinian Youth on Identity and Social Ties – 2012. BADIL Resource Center for Palestinian Residency & Refugee Rights](http://badil.org/phocadownload/Badil_docs/Working_Papers/WP-E-14.pdf)
+* [UN General Assembly Human Rights Council session 27 – Written statement
+ Submitted by the BADIL Resource center for Palestinian Residency and Refugee rights](http://www.badil.org/phocadownloadpap/legal-advocacy/un-human-rights-council/2014/Written%20statement%20submitted%20by%20the%20BADIL%20Resource%20center%20for%20Palestinian%20Residency%20and%20Refugee%20rights-%20End%20Israels%20policy%20of%20discriminatory%20child%20registration%20in%20Jerusalem.pdf)
+* [Israel is now attempting to “de-Arabize” Palestinian Christians, but in the 1950s it was Jews from the Middle East](http://mondoweiss.net/2014/03/attempting-palestinian-christians/)
+
+
+
+
+
+
 
 
