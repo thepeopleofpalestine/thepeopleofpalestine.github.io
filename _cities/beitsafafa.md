@@ -20,7 +20,7 @@ gallery:
 
 ## Identity and Citizenship Law ##
 
-Personal Story: 
+### Personal Story: 
 
 Kris and Tarik in Beit Saffafa and registering Louisa:
 
