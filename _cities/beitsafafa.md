@@ -48,7 +48,7 @@ Palestinian identification systems are complex and confusing. Identification is 
 
 * _Bedouin_: A nomadic people, with livelihoods that revolved around herding. In the mid 1800s, Bedouins gave up their nomadic lifestyles and settled into semi-permanent villages throughout Palestine. 
 
-## Israeli narrative
+### Israeli narrative
 
 **Israel is the only democracy in the Middle East** – _Israeli Prime Minister Benjamin Netanyahu_
 
@@ -57,5 +57,44 @@ Palestinian identification systems are complex and confusing. Identification is 
 **Let us not ignore the truth among ourselves ... politically we are the aggressors and they defend themselves... The country is theirs, because they inhabit it, whereas we want to come here and settle down, and in their view we want to take away from them their country** - _David Ben Gurion_
 
 **Israeli Arabs have more rights and a higher standard of living than in any other Middle Eastern country. The language in this section is essential to using largely unknown facts to educate the public in order to soften anti-Israeli impressions and win converts. The fact is, few know anything whatsoever about the rights of Arabs within Israel** – _Hasbara: The Israel Project’s 2009 Global Language Dictionary CHAPTER 14 - Talking about Israeli- Arabs_
+
+### Deconstructing the Narrative 
+
+Palestinians are subdivided into distinct, geographically anchored identities that fracture Palestinian society. One overall and consistent feature of the Palestinian identity is that no matter where they live, Israel considers Palestinians inferior to Jewish nationals both within and beyond the borders of Israel. The following describes how Israel has been able to transform this apartheid sentiment into state policy. There are [5 different “types” of Palestinian citizenship](http://visualizingpalestine.org/visuals/identity-crisis-the-israeli-id-system), each associated with different [regulations and benefits](http://badil.org/phocadownload/Badil_docs/publications/wp16-Residency.pdf)
+
+**Palestinian citizens of Israel**: 
+* Known as Arab Israelis or Israeli Arabs of Palestinian descent live as a minority in a Jewish society, can vote in public elections, get elected to the Knesset. They can also be indefinitely suspended from the Knesset for disagreeing with the occupation. There are approximately 1.8 million Palestinians (20% of Israel’s population) living in Israel. Israel is the only country in the world which attributes Arab as a nationality.
+* These Palestinians permanently reside within Israel, with Israeli citizenship, yet possess no ties to Judaism and thus cannot be considered ‘Jewish nationals’. 
+-* Although they are citizens of the state, in practice individuals in this sub-category are in an inferior position to Jewish Nationals. There are approximately 50 laws that overtly and covertly, discriminate against Palestinians with Israeli citizenship. For detailed descriptions look at [Citizenship and Entry into Israel, Education assistance, Military service, Israel Land Authority law, Absentee property law](http://www.badil.org/phocadownloadpap/Badil_docs/bulletins-and-briefs/bulletinno.26.pdf)
+
+**Palestinian permanent residents of Jerusalem**:
+* Palestinians who are registered as being permanent residents of East Jerusalem after the 1967 occupation and annexation by Israel. 
+* Citizenship is available to these individuals, however it is difficult to obtain, as they exist in a difficult legal setting, being subject to Israeli civil law, which is highly discriminatory. They have no permanent right to reside in the West Bank or the Gaza Strip, and their residency in Jerusalem is subject to revocation based on the Centre of Life policy (14,000 revocations since 1967).
+* State of Israel does not automatically [register Palestinian children](http://www.badil.org/phocadownloadpap/legal-advocacy/un-human-rights-council/2014/Written statement submitted by the BADIL Resource center for Palestinian Residency and Refugee rights- End Israels policy of discriminatory child registration in Jerusalem.pdf)
+* Without registration, children are unable to access available education, health, and social services. Thus, the rights of 10,000 Palestinian children in East Jerusalem are being violated in contravention of the UN Convention on the Rights of the Child Article 7, which states: “The child shall be registered immediately after birth...” in order to avoid a child being stateless. 
+
+**Palestinians with West Bank Identity Card**: 
+* Palestinians who are registered as being permanent residents of the West Bank after the 1967 occupation by Israel. 
+* Subject to Israeli military law, no right to freely enter Israel or the Gaza Strip. Also very difficult to obtain exit permit to leave the West Bank.
+
+**Palestinians with Gaza Strip identity card**:
+* Palestinians who are registered as being permanent members of the Gaza Strip after the 1967 occupation by Israel. 
+* Subject to Israeli military law, no right to freely leave the Gaza Strip, or to enter Israel or the West Bank
+* Since the elections of Hamas in 2006, Gaza has been under siege and Israel treats them as “prisoners”
+
+**Palestinian Diaspora**:
+* Palestinians living in forced exile, after they or their parents or grandparents were forcibly displaced in 1948 (Nakba). They are Palestinian without legal affiliation to Palestine, and no ability to return. This has been one of the most contentious issues in negotiations for justice, peace, and a resolution as these refugees are completely Palestinian, but no proposal has allowed for their return to Palestine.
+* Prevention of Infiltration Law (1954) and Military Orders provide that diaspora Palestinians are prohibited from legally returning to Israel or the 1967 occupied Palestinian territory. 
+* Land Acquisition for Public Ordinance precludes their legal claims for private lands, even if they have their deeds or proof of ownership.
+* Millions of Palestinian refugees remain stateless with no citizenship anywhere, and often [lack protection](http://www.unrwa.org/newsroom/emergency-reports/yarmouk-situation-report-51)
+
+The differences between the two main pillars of residency in Israel – Jewish Nationality and Israeli Citizenship – reflect the two strata of the Israeli racial hierarchy: Jews and non-Jews. This policy reflects and attempt by Israel to ensure that Arabs in “Israel” are viewed as a temporary element of society. By not calling them Palestinians, Israel seeks to avoid the permanency of Palestinians in “their” homeland. 
+
+The term Jew or Jewish is very complicated. The World Zionist Organization and Israel have succeeded in altering the meaning to be almost supranational, as Jewish nationality trumps the technical definitions of citizenship. Jewish Nationality, then, is above the state, the only case where such a superior status is attributed to individuals. 
+
+Publically, Israel touts itself as the “only democracy in the Middle East.” Israel’s democratic credentials are severely undermined by its discriminatory treatment of its indigenous non-Jewish population, who constitute roughly 20% of the population, as well as Palestinians living in the West Bank, Gaza, Jerusalem and refugee camps aboard. The policy of residency, citizenship, and identity revocation is part of Israel’s wider strategy to create conditions so bad that non-Jewish people will leave. It has been referred to as a policy of silent personnel transfer, and does not capture international attention the same way a sensational footage or reports of war crimes or genocide do. Nevertheless, it is a system whereby people will be inclined to leave and violates international law, and is in fact being examined by the ICJ, as a potential war crime.
+
+No reference to terrorism, security, the holocaust, or anti-Semitism can serve as a reasonable explanation for an apartheid system where one person is privileged over another, because of where and to whom they were born. The system is inherently discriminatory. It is not democratic and only appears democratic if you don’t understand the mechanics. Upon further investigation, the system is at its very core, undemocratic based on ethno religious apartheid. 
+
 
 
