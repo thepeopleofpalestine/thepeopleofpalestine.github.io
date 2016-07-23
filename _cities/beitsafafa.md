@@ -32,4 +32,30 @@ Palestinians who lived in historic Palestine, and happened to live in cities now
 
 Palestinian identification systems are complex and confusing. Identification is naturally a requirement for travel, and while many Palestinians can obtain travel documents it is an arduous process. West Bank Palestinians have their own ID, as do Jerusalemites, and both must travel aboard via Jordan because they aren’t permitted in Israel. Gaza has been under a siege and blockade for 10 years and virtually no one, let alone Palestinians, can enter or exit Gaza. Palestinians in 1948 territory, now known as Israel, can actually fly through Israel, with Israeli passports, as Israeli citizens. 
 
+### Key Definitions 
+
+* _Democracy_: Government by the people, where individuals or a representative, exercise the ability to govern.  In a democratic society, the majority rule but this must be coupled with guarantees of individual human rights that, in turn, serve to protect the rights of minorities--whether ethnic, religious, or political, or simply the losers in the debate over a piece of controversial legislation.
+
+* _Secular_: A commitment to keeping religion out of politics and public policy. One can be a full-blown religious fanatic so long as you don’t try to impose the fruits of one’s fanaticism on others. 
+
+* _Ashkenazi Jew_: European Jew (now known as Jews of European origin)
+
+* _Sephardic Jew_: Arab Jews (now know as Jews of the Arab World)
+
+* _Arab Jew_: Used as a means of identifying those Jews who had adopted the cultural system and practices of Arab civilization. 
+
+* _Druze_: Unique cultural, ethnic, and religious group of people native to Palestine. Their tradition dates back to the 11th century and incorporates elements of Islam, Hinduism and even classical Greek philosophy.
+
+* _Bedouin_: A nomadic people, with livelihoods that revolved around herding. In the mid 1800s, Bedouins gave up their nomadic lifestyles and settled into semi-permanent villages throughout Palestine. 
+
+## Israeli narrative
+
+**Israel is the only democracy in the Middle East** – _Israeli Prime Minister Benjamin Netanyahu_
+
+**Israeli’s of Palestinian descent have full equal rights. We know how to live with other people… Israelis know how to live with Israeli Arabs with Palestinian descent. Perhaps they don’t feel totally welcome in a Jewish state, but they have equal rights. It is the same in America – which is predominantly Christian – if you aren’t Christian you might not feel welcome in America** – [_Mitchell Barak: Political analyst and former spokesman for Israel President Shimon Peres_](http://www.aljazeera.com/programmes/insidestory/2016/06/israel-palestine-violence-160610163405903.html)
+
+**Let us not ignore the truth among ourselves ... politically we are the aggressors and they defend themselves... The country is theirs, because they inhabit it, whereas we want to come here and settle down, and in their view we want to take away from them their country** - _David Ben Gurion_
+
+**Israeli Arabs have more rights and a higher standard of living than in any other Middle Eastern country. The language in this section is essential to using largely unknown facts to educate the public in order to soften anti-Israeli impressions and win converts. The fact is, few know anything whatsoever about the rights of Arabs within Israel** – _Hasbara: The Israel Project’s 2009 Global Language Dictionary CHAPTER 14 - Talking about Israeli- Arabs_
+
 
