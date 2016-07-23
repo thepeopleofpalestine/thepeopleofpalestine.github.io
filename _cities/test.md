@@ -17,8 +17,6 @@ synopsis: |
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qBEFqy2Zk80" frameborder="0" allowfullscreen></iframe>
 
-[Pharmacist in Hebron](https://www.youtube.com/watch?v=et2muVDhIrY) [Issa in Hebron](Need to input the youtube link)
-
 {% include parallax.html url="/assets/images/cover.jpg" height="700px" %}
 
 ### Background
