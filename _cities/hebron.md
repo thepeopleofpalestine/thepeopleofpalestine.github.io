@@ -85,11 +85,6 @@ How, then, is Israel able create, sustain, and justify such apartheid policies? 
 
 [![](/assets/cities/hebron/resourcesbtseleminteractivemapofrestrictions.jpg)](http://www.btselem.org/map)[![](/assets/cities/hebron/resourceshebronmappingtheapartheid.jpg)](https://www.hebronapartheid.org/)[![](/assets/cities/hebron/resourcesecumenicalaccompanimentprograminpalestineandisrael.jpg)](http://eappi.org/en/)[![](/assets/cities/hebron/resourcesfreedomofmovementreport.jpg)](http://www.ohchr.org/Documents/Countries/PS/SG_Report_FoM_Feb2016.pdf#Page%2013)
 
-* [Interactive Map of restrictions](http://www.btselem.org/map)
-* [Hebron – mapping the apartheid](https://www.hebronapartheid.org/)
-* [Ecumenical Accompaniment program in Palestine and Israel](http://eappi.org/en/)
-* [Report of the Secretary-General to the United Nations Human Rights Council, February 2016 Freedom of Movement: Human rights situation in the Occupied Palestinian Territory, including East Jerusalem](http://www.ohchr.org/Documents/Countries/PS/SG_Report_FoM_Feb2016.pdf#Page%2013)
-
 ### Resources
 
 * [Badil – Working Paper 18 – Forced Population Transfer: Instalment of a Permit Regime](http://badil.org/en/publication/research/working-papers.html?download=1194:working-paper-18)
