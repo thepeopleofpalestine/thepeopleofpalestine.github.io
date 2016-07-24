@@ -83,6 +83,10 @@ How, then, is Israel able create, sustain, and justify such apartheid policies? 
 
 ### Resources
 
+[![](resourcesbtseleminteractivemapofrestrictions.jpg)](http://www.btselem.org/map)
+
+Interactive Map of Restrictions
+
 * [Interactive Map of restrictions](http://www.btselem.org/map)
 * [Hebron – mapping the apartheid](https://www.hebronapartheid.org/)
 * [Ecumenical Accompaniment program in Palestine and Israel](http://eappi.org/en/)
