@@ -91,8 +91,8 @@ How, then, is Israel able create, sustain, and justify such apartheid policies? 
 * [Badil Occasional Bulletin 12. The Permit Maze: Palestinians needs permits to move, to live, for everything](http://www.badil.org/phocadownloadpap/Badil_docs/bulletins-and-briefs/Bulletin-12.pdf)
 * [UN Universal Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/)
 * [International Humanitarian Law](https://www.icrc.org/customary-ihl/eng/docs/v1_rul)
-[![](/assets/cities/hebron/resourcesunmovementandaccess.jpg)](https://www.ochaopt.org/documents/ocha_opt_movement_access_2010_06_16_english.pdf)]
-[![](/assets/cities/hebron/resourcesunfactsheetseptember2011.jpg)](https://www.ochaopt.org/documents/ocha_opt_movementandaccess_factsheet_september_2011.pdf)]
-[![](/assets/cities/hebron/resourcesactpalestineforumadvocacypaper.jpg)](http://actpalestineforum.org/files/The-%E2%80%9CPermit-Regime%E2%80%9D-and-Israeli-Attacks-on-Palestinian-Freedom-of-Worship.pdf)]
+[![](/assets/cities/hebron/resourcesunmovementandaccess.jpg)](https://www.ochaopt.org/documents/ocha_opt_movement_access_2010_06_16_english.pdf)
+[![](/assets/cities/hebron/resourcesunfactsheetseptember2011.jpg)](https://www.ochaopt.org/documents/ocha_opt_movementandaccess_factsheet_september_2011.pdf)
+[![](/assets/cities/hebron/resourcesactpalestineforumadvocacypaper.jpg)](http://actpalestineforum.org/files/The-%E2%80%9CPermit-Regime%E2%80%9D-and-Israeli-Attacks-on-Palestinian-Freedom-of-Worship.pdf)
 
 
