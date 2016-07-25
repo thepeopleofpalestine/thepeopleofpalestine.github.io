@@ -5,7 +5,7 @@ location:
     y: 790
 thumbnail: null
 synopsis: |
-    Herbon is a Palestinian city, population ~ 250 000, located in the south of the West Bank. The city exists under difficult circumstances as a microcosm of the larger occupation. For Palestinians, there is limitted ability to move freely as soldiers control all movement through checkpoints and barriers, while settlers occupy the heart of the city. 
+    Hebron is a Palestinian city, population ~ 250 000, located in the south of the West Bank. The city exists under difficult circumstances as a microcosm of the larger occupation. For Palestinians, there is limitted ability to move freely as soldiers control all movement through checkpoints and barriers, while settlers occupy the heart of the city. 
  
 ---
 
@@ -46,7 +46,7 @@ The issuing of permits is at the discretion of Israeli authorities, through the 
 **_Physical system of control_**: Physical movement of Palestinians is controlled via physical obstructions inside the West Bank, including dirt mounds, concrete blocks placed in roads, trenches and the wall. According to the 1993 Oslo Interim Agreement – which should have led to final status negotiations in 1999 - the movement of people and vehicles in the West Bank should “without derogating from Israel’s security powers and responsibilities, be free and normal, and shall not need to be effected through checkpoints or roadblocks.” Furthermore, it is recognized that the West Bank and Gaza should be maintained as a “single territorial unit … respecting and preserving without obstacles, normal and smooth movement of people.” 
 This is not the reality for Palestinians, as Palestinian traffic is funnelled onto secondary and often lower-quality routes, or blocked altogether.
 
-In 2015 there were [490 permanent or semi-permanent] 
+In 2015 there were
 <a href="/assets/cities/hebron/490percentofclosures.jpg" target="_blank">490 permanent or semi-permanent</a> 
 closures. 
     
