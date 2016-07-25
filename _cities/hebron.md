@@ -1,13 +1,14 @@
 ---
 name: Hebron
 location:
-    x: 900
-    y: 900
+    x: 640
+    y: 790
 thumbnail: null
 synopsis: |
     Herbon is a Palestinian city, population ~ 250 000, located in the south of the West Bank. For years, decades in fact, it was the industrial engine of the region. The city is home to religiously significant sites including the tombs or sanctuaries of Abraham and Sarah, Isaac and Rebecca, Jacob and Leah. Today, the city exists under difficult circumstances; it is a microcosm of the occupation. Freedom of movement in Hebron is extremely restricted, as soldiers control access through checkpoints and barriers, and settlers occupy the heart of the city. 
  
 ---
+
 # Freedom of Movement
 
 
@@ -23,7 +24,7 @@ synopsis: |
 
 ### Background
 
-Palestinians’ freedom of movement is restricted through a complex system of administrative measures (e.g. prohibited roads, permit requirements, age restrictions) and physical constraints (e.g. checkpoints, roadblocks, the Wall). Every day, in order to move anywhere beyond their immediate area of residence, Palestinians must pass through through checkpoints manned by Israeli soldiers, take significant detours because of roads that are closed to Palestinians or present ID cards and permits in order to get to work. The extent and pervasiveness of impediments to free movement is difficult to communicate, and perhaps harder to grasp as a concept because it is so foreign from anything one might experience in North America. To provide some frame of reference, there are more obstacles for a 10 year old girl walking to school in Hebron than there are for a middle aged man to entering a military base or boarding a plane in Canada. 
+Palestinians freedom of movement is restricted through a complex system of administrative measures (e.g. prohibited roads, permit requirements, age restrictions) and physical constraints (e.g. checkpoints, roadblocks, the Wall). Every day, in order to move anywhere beyond their immediate area of residence, Palestinians must pass through through checkpoints manned by Israeli soldiers, take significant detours because of roads that are closed to Palestinians or present ID cards and permits in order to get to work. The extent and pervasiveness of impediments to free movement is difficult to communicate, and perhaps harder to grasp as a concept because it is so foreign from anything one might experience in North America. To provide some frame of reference, there are more obstacles for a 10 year old girl walking to school in Hebron than there are for a middle aged man to entering a military base or boarding a plane in Canada. 
 
 The system of movement restrictions that Israel has implemented discriminates against all Palestinians. Some Palestinians are almost certain to be denied permits or harrassed at checkpoints, but no Palestinian is guarenteed free and unimpeded movement. It does not matter whether it is the President of Palestine or a farmer trying to get to his field, every Palestinian is subject to Israel's system of restrictions. And nearly every journey involves interactions with Israeli soldiers and passing through checkpoints. Checkpoints and soldiers introduce uncertainty that make it very difficult to manage a schedule, and often becomes such an undertaking that Palestinians who can avoid travelling, do. 
 

@@ -24,19 +24,31 @@ layout: default
 <main id="index">
     <!-- This is the place where all the cities are placed on the map. -->
     <figure id=map>
-      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4032 6048" preserveAspectRatio="xMinYMin meet">
-        <image width="4032" height="6048" xlink:href="assets/images/map.jpg"></image>
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1236 1102" preserveAspectRatio="xMinYMin meet" style="max-width: 1102; max-height: 1236;">
+        <image width="1236" height="1102" xlink:href="assets/images/map.jpg"></image>
         {% for city in site.cities %}
 
             <a id="{{ city.name }}" class="city" xlink:href="{{ city.url }}">
-              <circle cx="{{ city.location.x }}" cy="{{ city.location.y }}" r="50" />
+              <circle cx="{{ city.location.x }}" cy="{{ city.location.y }}" r="10" />
             </a>
             <g class="tooltip">
-              <rect x="{{ city.location.x | plus: 50 }}" y="{{ city.location.y | plus: 50 }}" width=200 height=60 />
-              <text x="{{ city.location.x | plus: 55 }}" y="{{ city.location.y | plus: 105 }}"	fill=white font-size=50 alignment-baseline="middle" text-anchor="start">
+              <rect x="{{ city.location.x | minus: 175 }}" y="{{ city.location.y | plus: 10 }}" width=350 height=200 />
+              <text x="{{ city.location.x | minus: 10 }}" y="{{ city.location.y | plus: 35 }}" fill=white font-size=20 alignment-baseline="top" text-anchor="middle">
                 {{ city.name }}
               </text>
+            
+              <switch >
+                <g requiredFeatures="http://www.w3.org/Graphics/SVG/feature/1.2/#TextFlow">
+                  <textArea x="{{ city.location.x | minus: 165 }}" y="{{ city.location.y | plus: 25 }}" width=330 height=auto fill=white>
+                    {{ city.synopsis }}
+                  </textArea>
+                </g>
+                <foreignObject x="{{ city.location.x | minus: 165 }}" y="{{ city.location.y | plus: 25 }}" width=330 height=200 requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                  <p style="color: white;" xmlns="http://www.w3.org/1999/xhtml">{{ city.synopsis }}</p>
+                </foreignObject>
+              </switch>
             </g>
+
 
         {% endfor %}
       </svg>
