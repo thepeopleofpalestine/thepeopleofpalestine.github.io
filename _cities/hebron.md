@@ -83,14 +83,22 @@ How, then, is Israel able create, sustain, and justify such apartheid policies? 
 
 ### Resources
 
-[![](/assets/cities/hebron/resourcesbtseleminteractivemapofrestrictions.jpg)](http://www.btselem.org/map)[![](/assets/cities/hebron/resourceshebronmappingtheapartheid.jpg)](https://www.hebronapartheid.org/)[![](/assets/cities/hebron/resourcesecumenicalaccompanimentprograminpalestineandisrael.jpg)](http://eappi.org/en/)[![](/assets/cities/hebron/resourcesfreedomofmovementreport.jpg)](http://www.ohchr.org/Documents/Countries/PS/SG_Report_FoM_Feb2016.pdf#Page%2013)
+<div class="inline">
+    <a href="http://www.btselem.org/map"><img src="/assets/cities/hebron/resourcesbtseleminteractivemapofrestrictions.jpg"></a>
+    <a href="https://www.hebronapartheid.org/"><img src="/assets/cities/hebron/resourceshebronmappingtheapartheid.jpg"></a>
+    <a href="http://eappi.org/en/"><img src="/assets/cities/hebron/resourcesecumenicalaccompanimentprograminpalestineandisrael.jpg"></a>
+    <a href="http://www.ohchr.org/Documents/Countries/PS/SG_Report_FoM_Feb2016.pdf#Page%2013"><img src="/assets/cities/hebron/resourcesfreedomofmovementreport.jpg"></a>
+</div>
+    
 
 ### Resources
 
 [![](/assets/cities/hebron/resourcesbadilworkingpaper18.jpg)](http://badil.org/en/publication/research/working-papers.html?download=1194:working-paper-18)
+
 * [Badil Occasional Bulletin 12. The Permit Maze: Palestinians needs permits to move, to live, for everything](http://www.badil.org/phocadownloadpap/Badil_docs/bulletins-and-briefs/Bulletin-12.pdf)
 * [UN Universal Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/)
 * [International Humanitarian Law](https://www.icrc.org/customary-ihl/eng/docs/v1_rul)
+
 [![](/assets/cities/hebron/resourcesunmovementandaccess.jpg)](https://www.ochaopt.org/documents/ocha_opt_movement_access_2010_06_16_english.pdf)
 [![](/assets/cities/hebron/resourcesunfactsheetseptember2011.jpg)](https://www.ochaopt.org/documents/ocha_opt_movementandaccess_factsheet_september_2011.pdf)
 [![](/assets/cities/hebron/resourcesactpalestineforumadvocacypaper.jpg)](http://actpalestineforum.org/files/The-%E2%80%9CPermit-Regime%E2%80%9D-and-Israeli-Attacks-on-Palestinian-Freedom-of-Worship.pdf)

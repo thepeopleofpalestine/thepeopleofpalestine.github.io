@@ -118,6 +118,16 @@ div.parallax {
     }
 }
 
+div.inline {
+    text-align: center;
+    > img {
+        display: inline-block;
+    }
+    > a > img {
+        display: inline-block;
+    }
+}
+
 #ps-open {
   img {
     max-width: 32%;
