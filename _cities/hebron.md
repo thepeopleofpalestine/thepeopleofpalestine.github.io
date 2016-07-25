@@ -96,6 +96,13 @@ How, then, is Israel able create, sustain, and justify such apartheid policies? 
 
 ### References
 
+<div class="inline">
+    <a href="http://badil.org/en/publication/research/working-papers.html?download=1194:working-paper-18"><img src="/assets/cities/hebron/resourcesbadilworkingpaper18.jpg"></a>
+    <a href="https://www.ochaopt.org/documents/ocha_opt_movement_access_2010_06_16_english.pdf"><img src="/assets/cities/hebron/resourcesunmovementandaccess.jpg"></a>
+    <a href="https://www.ochaopt.org/documents/ocha_opt_movementandaccess_factsheet_september_2011.pdf"><img src="/assets/cities/hebron/resourcesunfactsheetseptember2011.jpg"></a>
+    <a href="http://actpalestineforum.org/files/The-%E2%80%9CPermit-Regime%E2%80%9D-and-Israeli-Attacks-on-Palestinian-Freedom-of-Worship.pdf"><img src="/assets/cities/hebron/resourcesactpalestineforumadvocacypaper.jpg"></a>
+</div>
+
 [![](/assets/cities/hebron/resourcesbadilworkingpaper18.jpg)](http://badil.org/en/publication/research/working-papers.html?download=1194:working-paper-18)
 
 * [Badil Occasional Bulletin 12. The Permit Maze: Palestinians needs permits to move, to live, for everything](http://www.badil.org/phocadownloadpap/Badil_docs/bulletins-and-briefs/Bulletin-12.pdf)
