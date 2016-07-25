@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% if page.cover %}
+    {% include parallax.html url=page.cover height="75vh" %}
+{% endif %}
 
 <header>
     {% if page.title %}
