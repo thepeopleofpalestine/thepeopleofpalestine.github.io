@@ -47,7 +47,7 @@ The issuing of permits is at the discretion of Israeli authorities, through the 
 This is not the reality for Palestinians, as Palestinian traffic is funnelled onto secondary and often lower-quality routes, or blocked altogether.
 
 In 2015 there were [490 permanent or semi-permanent] 
-<a href="http://google.com/" target="_blank">490 permanent or semi-permanent</a> 
+<a href="/assets/cities/hebron/490percentofclosures.jpg" target="_blank">490 permanent or semi-permanent</a> 
 closures. 
     
     
