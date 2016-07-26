@@ -52,6 +52,32 @@ closures.
 
 {% include lightbox.html src="/assets/cities/hebron/southafrica.jpg" caption="South African Pass Laws" height=1181 width=1768 %}
 
+gallery:
+    - src: /assets/cities/hebron/cinderblock.jpg
+      title: "Cinderblock."
+      h: 2698
+      w: 4039
+    - src: /assets/cities/hebron/cinderblocktaxi.jpg
+      title: "Cinderblock2."
+      h: 2698
+      w: 4039
+    - src: /assets/cities/hebron/wallsettlerroad.jpg
+      title: "The Wall & Settler Road"
+      h: 2698
+      w: 4039
+    - src: /assets/cities/hebron/shuhadastreet.jpg
+      title: "Checkpoint at Shuhada Street"
+      h: 2698
+      w: 4039
+    - src: /assets/cities/hebron/hamracheckpoint.jpg
+      title: "Hamra Checkpoint"
+      h: 2698
+      w: 4039    
+      - src: /assets/cities/hebron/redsign.jpg
+      title: "sdkfjhskjdfh"
+      h: 2698
+      w: 4039
+      
 ### Israeli narrative
 
 Many justifications have been offered for certain aspects of the occupation, but the restriction on movement is a topic Israeli politicians attempt to avoid. When pressed, the Israeli spokepersons have indicated that a comprehensive system of restrictions on freedom of movement within the West Bank, Gaza, and Jerusalem is a **temporary measure to contain violent confrontations with its military and to protect Israeli citizens**, in both Israel and the West Bank, from attacks by Palestinians. These restrictions came in addition to pre-existing policies which restricted the access of Palestinians to large and important areas, such as East Jerusalem, areas designated as closed military zones, settler only roads and land allocated use by Israeli settlers only. Israeli Justice Asher Grunis acknowledged in 2012 that restricting movement in the manner Israel does, is a violation of International Human Rights Law (IHRL) and the duties of an occupying power, but stated that [human rights are not a prescription for national suicide](http://thenational.ae/opinion/comment/how-israel-uses-its-security-needs-tojustify-discrimination). Other Israeli lawmakers and politicians have reaffirmed this position. While this may initially sound reasonable, intelligent and legal, when the situation and system is examined in greater dpeth, this position is misleading. 
