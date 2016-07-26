@@ -91,18 +91,6 @@ How, then, is Israel able create, sustain, and justify such apartheid policies? 
 
 **Example 5**: [Families are separated indefinitely](http://www.btselem.org/video/2008/09/israel-splits-families-between-gaza-and-west-bank) because they cannot obtain permission to live together.
 
-
-### Resources
-
-<div class="inline">
-    <a href="http://www.btselem.org/map"><img src="/assets/cities/hebron/resourcesbtseleminteractivemapofrestrictions.jpg"></a>
-    <a href="https://www.hebronapartheid.org/"><img src="/assets/cities/hebron/resourceshebronmappingtheapartheid.jpg"></a>
-    <a href="http://eappi.org/en/"><img src="/assets/cities/hebron/resourcesecumenicalaccompanimentprograminpalestineandisrael.jpg"></a>
-    <a href="http://www.ohchr.org/Documents/Countries/PS/SG_Report_FoM_Feb2016.pdf#Page%2013"><img src="/assets/cities/hebron/resourcesfreedomofmovementreport.jpg"></a>
-</div>
-    
-
-
 ### Resources
 
 <div class="inline">
