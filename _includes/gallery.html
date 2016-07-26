@@ -1,8 +1,19 @@
 <div style="text-align: center">
-  <h3>Image Gallery</h3>
-  {% for image in page.gallery | limit: 3 %}
-    <img src="{{ image.src }}" onclick="openPhotoSwipe({{ forloop.index | minus: 1}})">
-  {% endfor %}
+  <h3>Gallery ({{ page.gallery.size }} images)</h3>
+  <p>Click to zoom and use the arrows to navigate.</p>
+  {% if page.gallery.size == 1 %}
+      {% for image in page.gallery | limit: 1 %}
+        <img src="{{ image.src }}" style="width: 100%; display: inline-block;" onclick="openPhotoSwipe({{ forloop.index | minus: 1}})">
+      {% endfor %}
+  {% elsif page.gallery.size == 2 %}
+      {% for image in page.gallery | limit: 2 %}
+        <img src="{{ image.src }}" style="width: 49%; display: inline-block;" onclick="openPhotoSwipe({{ forloop.index | minus: 1}})">
+      {% endfor %}
+  {% else %}
+      {% for image in page.gallery %}
+        <img src="{{ image.src }}" style="width: 32%; display: inline-block;" onclick="openPhotoSwipe({{ forloop.index | minus: 1}})">
+      {% endfor %}
+  {% endif %}
 </div>
 
 <script>
@@ -18,7 +29,7 @@ function openPhotoSwipe(start) {
   };
 
   // Initializes and opens PhotoSwipe
-  var gallery = new PhotoSwipe( pswpElement, PhotoSwipeUI_Default, items, options);
+  var gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, options);
   gallery.init();
 }
 </script>
