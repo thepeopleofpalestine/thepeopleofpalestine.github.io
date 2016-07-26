@@ -106,9 +106,6 @@ How, then, is Israel able create, sustain, and justify such apartheid policies? 
      <a href="https://www.icrc.org/customary-ihl/eng/docs/v1_rul"><img src="/assets/cities/hebron/internationalhumanitarianlaw.jpg"></a>
 </div>
 
-* [Badil Occasional Bulletin 12. The Permit Maze: Palestinians needs permits to move, to live, for everything](http://www.badil.org/phocadownloadpap/Badil_docs/bulletins-and-briefs/Bulletin-12.pdf)
-* [UN Universal Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/)
-* [International Humanitarian Law](https://www.icrc.org/customary-ihl/eng/docs/v1_rul)
 
 
 
