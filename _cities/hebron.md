@@ -50,7 +50,7 @@ The issuing of permits is at the discretion of Israeli authorities, through the 
 In 2015, according to the United Nations Human Rights Office of the High Commissioner, there were <a href="/assets/cities/hebron/490percentofclosures.jpg" target="_blank">490 permanent or semi-permanent</a> 
 closures. 
 
-{% include lightbox.html src="/assets/cities/hebron/southafrica.jpg" caption="South African Pass Laws" height=675 width=1010 %}
+{% include lightbox.html src="/assets/cities/hebron/southafrica.jpg" caption="South African Pass Laws" height=1181 width=1768 %}
 
 ### Israeli narrative
 
