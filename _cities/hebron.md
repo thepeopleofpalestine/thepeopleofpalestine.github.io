@@ -49,7 +49,7 @@ This is not the reality for Palestinians, as Palestinian traffic is funnelled on
 In 2015 there were <a href="/assets/cities/hebron/490percentofclosures.jpg" target="_blank">490 permanent or semi-permanent</a> 
 closures. 
 
-{% include lightbox.html src="/assets/cities/hebron/southafrica/.jpg" caption="South African Pass Laws" height=2698 width=4039 %}
+{% include lightbox.html src="/assets/cities/hebron/southafrica.jpg" caption="South African Pass Laws" height=2698 width=4039 %}
     
 ### Israeli Narrative
 
