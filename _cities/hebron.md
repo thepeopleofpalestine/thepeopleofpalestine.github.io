@@ -47,7 +47,10 @@ The issuing of permits is at the discretion of Israeli authorities, through the 
 
 **_Physical system of control_**: Physical movement of Palestinians is controlled via physical obstructions inside the West Bank, including checkpoints, gates, dirt mounds, concrete blocks placed in roads, trenches and the wall. Palestinian traffic is funnelled onto secondary and often lower-quality routes, or blocked altogether. According to the 1993 Oslo Interim Agreement – which should have led to final status negotiations in 1999 - the movement of people and vehicles in the West Bank should “without derogating from Israel’s security powers and responsibilities, be free and normal, and shall not need to be effected through checkpoints or roadblocks.” Furthermore, it is recognized that the West Bank and Gaza should be maintained as a “single territorial unit … respecting and preserving without obstacles, normal and smooth movement of people.” The reality, specifically relating to movement, is far worse for Palestinians today than it was before the Oslo accords. 
 
-In 2015, according to United Nations Human Rights office of the High Commissioner there were [490 permanent or semi-permanent](http://www.ohchr.org/Documents/Countries/PS/SG_Report_FoM_Feb2016.pdf) closures. 
+In 2015, according to the United Nations Human Rights Office of the High Commissioner, there were <a href="/assets/cities/hebron/490percentofclosures.jpg" target="_blank">490 permanent or semi-permanent</a> 
+closures. 
+
+{% include lightbox.html src="/assets/cities/hebron/southafrica.jpg" caption="South African Pass Laws" height=675 width=1010 %}
 
 ### Israeli narrative
 
@@ -99,16 +102,27 @@ How, then, is Israel able create, sustain, and justify such apartheid policies? 
 </div>
     
 
+
 ### Resources
 
-[![](/assets/cities/hebron/resourcesbadilworkingpaper18.jpg)](http://badil.org/en/publication/research/working-papers.html?download=1194:working-paper-18)
+<div class="inline">
+    <a href="http://www.btselem.org/map"><img src="/assets/cities/hebron/resourcesbtseleminteractivemapofrestrictions.jpg"></a>
+    <a href="https://www.hebronapartheid.org/"><img src="/assets/cities/hebron/resourceshebronmappingtheapartheid.jpg"></a>
+    <a href="http://eappi.org/en/"><img src="/assets/cities/hebron/resourcesecumenicalaccompanimentprograminpalestineandisrael.jpg"></a>
+    <a href="http://www.ohchr.org/Documents/Countries/PS/SG_Report_FoM_Feb2016.pdf#Page%2013"><img src="/assets/cities/hebron/resourcesfreedomofmovementreport.jpg"></a>
+</div>
 
-* [Badil Occasional Bulletin 12. The Permit Maze: Palestinians needs permits to move, to live, for everything](http://www.badil.org/phocadownloadpap/Badil_docs/bulletins-and-briefs/Bulletin-12.pdf)
-* [UN Universal Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/)
-* [International Humanitarian Law](https://www.icrc.org/customary-ihl/eng/docs/v1_rul)
+### References
 
-[![](/assets/cities/hebron/resourcesunmovementandaccess.jpg)](https://www.ochaopt.org/documents/ocha_opt_movement_access_2010_06_16_english.pdf)
-[![](/assets/cities/hebron/resourcesunfactsheetseptember2011.jpg)](https://www.ochaopt.org/documents/ocha_opt_movementandaccess_factsheet_september_2011.pdf)
-[![](/assets/cities/hebron/resourcesactpalestineforumadvocacypaper.jpg)](http://actpalestineforum.org/files/The-%E2%80%9CPermit-Regime%E2%80%9D-and-Israeli-Attacks-on-Palestinian-Freedom-of-Worship.pdf)
+<div class="inline">
+    <a href="http://badil.org/en/publication/research/working-papers.html?download=1194:working-paper-18"><img src="/assets/cities/hebron/resourcesbadilworkingpaper18.jpg"></a>
+    <a href="https://www.ochaopt.org/documents/ocha_opt_movement_access_2010_06_16_english.pdf"><img src="/assets/cities/hebron/resourcesunmovementandaccess.jpg"></a>
+    <a href="https://www.ochaopt.org/documents/ocha_opt_movementandaccess_factsheet_september_2011.pdf"><img src="/assets/cities/hebron/resourcesunfactsheetseptember2011.jpg"></a>
+    <a href="http://actpalestineforum.org/files/The-%E2%80%9CPermit-Regime%E2%80%9D-and-Israeli-Attacks-on-Palestinian-Freedom-of-Worship.pdf"><img src="/assets/cities/hebron/resourcesactpalestineforumadvocacypaper.jpg"></a>
+     <a href="http://www.badil.org/phocadownloadpap/Badil_docs/bulletins-and-briefs/Bulletin-12.pdf"><img src="/assets/cities/hebron/thepermitmaze.jpg"></a>
+     <a href="http://www.un.org/en/universal-declaration-human-rights/"><img src="/assets/cities/hebron/declarationofhumanrights.jpg"></a>
+     <a href="https://www.icrc.org/customary-ihl/eng/docs/v1_rul"><img src="/assets/cities/hebron/internationalhumanitarianlaw.jpg"></a>
+</div>
+
 
 
