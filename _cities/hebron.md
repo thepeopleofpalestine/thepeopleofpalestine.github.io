@@ -6,6 +6,23 @@ location:
 thumbnail: null
 synopsis: |
     Hebron is a Palestinian city, population ~ 250 000, located in the south of the West Bank. The city exists under difficult circumstances as a microcosm of the larger occupation. For Palestinians, there is limitted ability to move freely as soldiers control all movement through checkpoints and barriers, while settlers occupy the heart of the city. 
+gallery:
+    - src: /assets/images/cover.jpg
+      title: "1 This is some caption about things."
+      h: 2698
+      w: 4039
+    - src: /assets/images/cover.jpg
+      title: "2 This is some caption about things."
+      h: 2698
+      w: 4039
+    - src: /assets/images/cover.jpg
+      title: "3 This is some caption about things."
+      h: 2698
+      w: 4039
+    - src: /assets/images/cover.jpg
+      title: "4 This is some caption about things."
+      h: 2698
+      w: 4039
 ---
 
 # Freedom of Movement
