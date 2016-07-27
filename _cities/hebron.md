@@ -8,7 +8,7 @@ synopsis: |
     Hebron is a Palestinian city, population ~ 250 000, located in the south of the West Bank. The city exists under difficult circumstances as a microcosm of the larger occupation. For Palestinians, there is limitted ability to move freely as soldiers control all movement through checkpoints and barriers, while settlers occupy the heart of the city. 
 gallery:
     - src: /assets/cities/hebron/redsign.jpg
-      title: "This sign is placed, by Israeli occupation forces, at the entrance to every Palestinian area"
+      title: "This sign is placed, by Israeli occupation forces, at the entrance to every Palestinian controlled area. The tower behind it is an IDF watch/sniper tower."
       h: 2698
       w: 4039
     - src: /assets/images/cover.jpg
