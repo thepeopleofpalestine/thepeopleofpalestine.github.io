@@ -79,7 +79,7 @@ In 2015, according to the United Nations Human Rights Office of the High Commiss
 {% include lightbox.html thumbnail="/assets/cities/hebron/southafricanpasslawssm.jpg" src="/assets/cities/hebron/southafrica.jpg" caption="South African Pass Laws" height=1200 width=1700 %}
 {% include lightbox.html thumbnail="/assets/cities/hebron/hebronschoolchildrensm.jpg" src="/assets/cities/hebron/hebronschoolchildrenlg.jpg" caption="Case Study from Report of the Secretary-General to the United Nations Human Rights Council: Movement Restrictions on School Children in Hebron" height=1200 width=1700 %}
 {% include lightbox.html thumbnail="/assets/cities/hebron/gazacancerpatientsm.jpg" src="/assets/cities/hebron/gazacancerpatientlg.jpg" caption="Case Study from Report of the Secretary-General to the United Nations Human Rights Council: Movement Restrictions on Medical Patients from Gaza" height=1200 width=1700 %}
-{% include lightbox.html thumbnail="/assets/cities/hebron/westbankclosures2014sm.jpg" src="/assets/cities/herbon/westbankclosures2014.jpg" caption="Checkpoints in the West Bank" height=1200 width=1700 %}
+{% include lightbox.html thumbnail="/assets/cities/hebron/westbankclosures2014sm.jpg" src="/assets/cities/hebron/westbankclosures2014.jpg" caption="Checkpoints in the West Bank" height=1200 width=1700 %}
       
 ### Israeli narrative
 
