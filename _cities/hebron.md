@@ -75,33 +75,6 @@ In 2015, according to the United Nations Human Rights Office of the High Commiss
 closures. 
 
 {% include lightbox.html src="/assets/cities/hebron/southafrica.jpg" caption="South African Pass Laws" height=1181 width=1768 %}
-
-    
- gallery:
-    - src: /assets/cities/hebron/cinderblock.jpg
-      title: "Cinderblock."
-      h: 2698
-      w: 4039
-    - src: /assets/cities/hebron/cinderblocktaxi.jpg
-      title: "Cinderblock2."
-      h: 2698
-      w: 4039
-    - src: /assets/cities/hebron/wallsettlerroad.jpg
-      title: "The Wall & Settler Road"
-      h: 2698
-      w: 4039
-    - src: /assets/cities/hebron/shuhadastreet.jpg
-      title: "Checkpoint at Shuhada Street"
-      h: 2698
-      w: 4039
-    - src: /assets/cities/hebron/hamracheckpoint.jpg
-      title: "Hamra Checkpoint"
-      h: 2698
-      w: 4039    
-      - src: /assets/cities/hebron/redsign.jpg
-      title: "sdkfjhskjdfh"
-      h: 2698
-      w: 4039
       
 ### Israeli narrative
 
