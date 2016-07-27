@@ -7,7 +7,13 @@
   {% endunless %}
 
 {% else %}
+  
+  {% unless include.video %}
   <a href="javascript:void(0)" onclick='openLightbox({{ include.src | jsonify }}, {{ include.width }}, {{ include.height }}, {{ include.caption | jsonify }});'>{{ include.text }}</a>
+  {% else %}
+  <a href="javascript:void(0)" onclick='openYoutube({{ include.video | jsonify }}, {{ include.caption | jsonify }});'>{{ include.text }}</a>
+  {% endunless %}
+
 {% endunless %}
 
 

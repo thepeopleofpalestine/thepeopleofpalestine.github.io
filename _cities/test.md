@@ -41,4 +41,10 @@ You can use `text` instead of thumbnail or nothing to make the lightbox a text l
 
 {% include lightbox.html thumbnail="/assets/cities/hebron/sm-southafrica.jpg" src="/assets/cities/hebron/southafrica.jpg" caption="Pass Laws" height=1200 width=1700 %}
 
+
+# Demo of Youtube Video text link
+
+{% include lightbox.html video="zNdkrtfZP8I" caption="Pass Laws" text="Test text" %}
+
+
 End of Demo

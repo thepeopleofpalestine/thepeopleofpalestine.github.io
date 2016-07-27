@@ -68,7 +68,6 @@
         var pswpElement = document.getElementById('pswp');
 
         function openLightbox(src, width, height, caption) {
-          console.log(width, height, src);
           // build items array
           var items = [{
             src: src,
@@ -81,8 +80,23 @@
           var options = {};
 
           // Initializes and opens PhotoSwipe
-          var gallery = new PhotoSwipe( pswpElement, PhotoSwipeUI_Default, items, options);
+          var gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, options);
           gallery.init();
+        }
+
+        function openYoutube(video, caption) {
+          var items = [{
+            html: '<iframe width="'+(window.innerWidth)+'" height="'+(window.innerHeight-50)+'" src="https://www.youtube.com/embed/'+video+'?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>',
+            w: window.innerWidth,
+            h: window.innerHeight-50,
+            title: caption,
+          }];
+
+          var options = {};
+          
+          var gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, options);
+          gallery.init();
+
         }
         </script>
 
