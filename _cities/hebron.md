@@ -6,31 +6,6 @@ location:
 thumbnail: null
 synopsis: |
     Hebron is a Palestinian city, population ~ 250 000, located in the south of the West Bank. The city exists under difficult circumstances as a microcosm of the larger occupation. For Palestinians, there is limitted ability to move freely as soldiers control all movement through checkpoints and barriers, while settlers occupy the heart of the city. 
-gallery:
-    - src: /assets/cities/hebron/cinderblock.jpg
-      title: "Cinderblock."
-      h: 2698
-      w: 4039
-    - src: /assets/cities/hebron/cinderblocktaxi.jpg
-      title: "Cinderblock2."
-      h: 2698
-      w: 4039
-    - src: /assets/cities/hebron/wallsettlerroad.jpg
-      title: "The Wall & Settler Road"
-      h: 2698
-      w: 4039
-    - src: /assets/cities/hebron/shuhadastreet.jpg
-      title: "Checkpoint at Shuhada Street"
-      h: 2698
-      w: 4039
-    - src: /assets/cities/hebron/hamracheckpoint.jpg
-      title: "Hamra Checkpoint"
-      h: 2698
-      w: 4039    
-      - src: /assets/cities/hebron/redsign.jpg
-      title: "sdkfjhskjdfh"
-      h: 2698
-      w: 4039
 ---
 
 # Freedom of Movement
@@ -74,7 +49,7 @@ The issuing of permits is at the discretion of Israeli authorities, through the 
 In 2015, according to the United Nations Human Rights Office of the High Commissioner, there were <a href="/assets/cities/hebron/490percentofclosures.jpg" target="_blank">490 permanent or semi-permanent</a> 
 closures. 
 
-{% include lightbox.html src="/assets/cities/hebron/southafrica.jpg" caption="South African Pass Laws" height=1181 width=1768 %}
+{% include lightbox.html thumbnail="/assets/cities/hebron/sm-southafrica.jpg" src="/assets/cities/hebron/southafrica.jpg" caption="Pass Laws" height=1200 width=1700 %}
       
 ### Israeli narrative
 
