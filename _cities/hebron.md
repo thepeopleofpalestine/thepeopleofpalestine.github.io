@@ -50,6 +50,7 @@ In 2015, according to the United Nations Human Rights Office of the High Commiss
 closures. 
 
 {% include lightbox.html thumbnail="/assets/cities/hebron/sm-southafrica.jpg" src="/assets/cities/hebron/southafrica.jpg" caption="South African Pass Laws" height=1200 width=1700 %}
+{% include lightbox.html thumbnail="/assets/cities/hebron/hebronschoolchildrensm.jpg" src="/assets/cities/hebron/hebronschoolchildrenlg.jpg" caption="Pass Laws" height=1200 width=1700 %}
       
 ### Israeli narrative
 
