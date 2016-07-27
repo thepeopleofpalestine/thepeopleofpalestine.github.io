@@ -11,15 +11,23 @@ gallery:
       title: "This sign is placed, by Israeli occupation forces, at the entrance to every Palestinian controlled area. The tower behind it is an IDF watch/sniper tower."
       h: 2698
       w: 4039
-    - src: /assets/images/cover.jpg
+    - src: /assets/cities/hebron/shuhadastreet.jpg
       title: "2 This is some caption about things."
       h: 2698
       w: 4039
-    - src: /assets/images/cover.jpg
+    - src: /assets/cities/hebron/wallsettlerroad.jpg
       title: "3 This is some caption about things."
       h: 2698
       w: 4039
-    - src: /assets/images/cover.jpg
+    - src: /assets/cities/hebron/soldiers.jpg
+      title: "4 This is some caption about things."
+      h: 2698
+      w: 4039
+    - src: /assets/cities/hebron/cinderblock.jpg
+      title: "4 This is some caption about things."
+      h: 2698
+      w: 4039 
+    - src: /assets/cities/hebron/cinderblocktaxi.jpg
       title: "4 This is some caption about things."
       h: 2698
       w: 4039
