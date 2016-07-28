@@ -66,8 +66,14 @@ span.author,span.image-credit {
     font-size: 12pt;
 }
 
+.youtube-link {
+    color: red;
+    text-decoration-style: dotted;
+}
+
 figure {
     text-align: center;
+    margin: 0;
 }
 img {
     display: block;
