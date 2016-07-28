@@ -80,6 +80,19 @@ img {
     margin: auto;
 }
 
+.gallery, .case-studies {
+    > figure {
+        height: 400px;
+        vertical-align: middle;
+        > img {
+            height: 300px;
+        }
+        > figcaption {
+            bottom: 0;
+        }
+    }
+}
+
 // Hide the underlines from title links.
 h1,h2,h3,h4 {
     > a {
