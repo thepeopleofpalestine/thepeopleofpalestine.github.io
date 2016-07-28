@@ -27,12 +27,6 @@ layout: default
     <article>
         {{content}}
 
-        {% if page.gallery %}
-          <hr>
-          <!-- There is a gallery -->
-          {% include gallery.html %}
-        {% endif %}
-
 	<hr>
         <div class="post-meta">
             <a class="button" href="{{ "/"  | prepend: site.baseurl  }}">Return to index</a>

@@ -1,0 +1,43 @@
+<div style="text-align: center">
+  <p>Click to zoom and use the arrows to navigate.</p>
+  {% if page.case_studies.size == 1 %}
+      {% for image in page.case_studies | limit: 1 %}
+        <figure style="width: 100%; display: inline-block;">
+          <img src="{{ image.src }}" onclick="openCaseStudies({{ forloop.index | minus: 1}})">
+          <figcaption>{{ image.title }}</figcaption>
+        </figure>
+      {% endfor %}
+  {% elsif page.case_studies.size == 2 %}
+      {% for image in page.case_studies | limit: 2 %}
+        <figure style="width: 49%; display: inline-block;">
+          <img src="{{ image.src }}" onclick="openCaseStudies({{ forloop.index | minus: 1}})">
+          <figcaption>{{ image.title }}</figcaption>
+        </figure>
+      {% endfor %}
+  {% else %}
+      {% for image in page.case_studies %}
+        <figure style="width: 32%; display: inline-block;">
+          <img src="{{ image.src }}" onclick="openCaseStudies({{ forloop.index | minus: 1}})">
+          <figcaption>{{ image.title }}</figcaption>
+        </figure>
+      {% endfor %}
+  {% endif %}
+</div>
+
+<script>
+var pswpElement = document.getElementById('pswp');
+
+function openCaseStudies(start) {
+  // build items array
+  var items = {{ page.case_studies | jsonify }};
+
+  // define options (if needed)
+  var options = {
+    index: start,
+  };
+
+  // Initializes and opens PhotoSwipe
+  var case_studies = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, options);
+  case_studies.init();
+}
+</script>

@@ -1,24 +1,35 @@
 <div style="text-align: center">
-  <h3>Gallery ({{ page.gallery.size }} images)</h3>
   <p>Click to zoom and use the arrows to navigate.</p>
   {% if page.gallery.size == 1 %}
       {% for image in page.gallery | limit: 1 %}
         <figure style="width: 100%; display: inline-block;">
-          <img src="{{ image.src }}" onclick="openPhotoSwipe({{ forloop.index | minus: 1}})">
+          {% if image.thumbnail %}
+            <img src="{{ image.thumbnail }}" onclick="openPhotoSwipe({{ forloop.index | minus: 1}})">
+          {% else %}
+            <img src="{{ image.src }}" onclick="openPhotoSwipe({{ forloop.index | minus: 1}})">
+          {% endif %}
           <figcaption>{{ image.title }}</figcaption>
         </figure>
       {% endfor %}
   {% elsif page.gallery.size == 2 %}
       {% for image in page.gallery | limit: 2 %}
         <figure style="width: 49%; display: inline-block;">
-          <img src="{{ image.src }}" onclick="openPhotoSwipe({{ forloop.index | minus: 1}})">
+          {% if image.thumbnail %}
+            <img src="{{ image.thumbnail }}" onclick="openPhotoSwipe({{ forloop.index | minus: 1}})">
+          {% else %}
+            <img src="{{ image.src }}" onclick="openPhotoSwipe({{ forloop.index | minus: 1}})">
+          {% endif %}
           <figcaption>{{ image.title }}</figcaption>
         </figure>
       {% endfor %}
   {% else %}
       {% for image in page.gallery %}
         <figure style="width: 32%; display: inline-block;">
-          <img src="{{ image.src }}" onclick="openPhotoSwipe({{ forloop.index | minus: 1}})">
+          {% if image.thumbnail %}
+            <img src="{{ image.thumbnail }}" onclick="openPhotoSwipe({{ forloop.index | minus: 1}})">
+          {% else %}
+            <img src="{{ image.src }}" onclick="openPhotoSwipe({{ forloop.index | minus: 1}})">
+          {% endif %}
           <figcaption>{{ image.title }}</figcaption>
         </figure>
       {% endfor %}
