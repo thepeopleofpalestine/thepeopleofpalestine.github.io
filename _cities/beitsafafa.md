@@ -50,15 +50,20 @@ Palestinian identification systems are complex and confusing. Identification is 
 
 ### Israeli narrative
 
+
 <iframe src='http://players.brightcove.net/665003303001/SJg0bzqkZ_default/index.html?videoId=4934828344001' allowfullscreen frameborder=0></iframe>
 
-**Israel is the only democracy in the Middle East** – _Israeli Prime Minister Benjamin Netanyahu_
+> Israel is the only democracy in the Middle East
+_Israeli Prime Minister Benjamin Netanyahu_
 
-**Israeli’s of Palestinian descent have full equal rights. We know how to live with other people… Israelis know how to live with Israeli Arabs with Palestinian descent. Perhaps they don’t feel totally welcome in a Jewish state, but they have equal rights. It is the same in America – which is predominantly Christian – if you aren’t Christian you might not feel welcome in America** – [_Mitchell Barak: Political analyst and former spokesman for Israel President Shimon Peres_](http://www.aljazeera.com/programmes/insidestory/2016/06/israel-palestine-violence-160610163405903.html)
+> Israeli’s of Palestinian descent have full equal rights. We know how to live with other people… Israelis know how to live with Israeli Arabs with Palestinian descent. Perhaps they don’t feel totally welcome in a Jewish state, but they have equal rights. It is the same in America – which is predominantly Christian – if you aren’t Christian you might not feel welcome in America**
+[_Mitchell Barak: Political analyst and former spokesman for Israel President Shimon Peres_](http://www.aljazeera.com/programmes/insidestory/2016/06/israel-palestine-violence-160610163405903.html)
 
-**Let us not ignore the truth among ourselves ... politically we are the aggressors and they defend themselves... The country is theirs, because they inhabit it, whereas we want to come here and settle down, and in their view we want to take away from them their country** - _David Ben Gurion_
+> Let us not ignore the truth among ourselves ... politically we are the aggressors and they defend themselves... The country is theirs, because they inhabit it, whereas we want to come here and settle down, and in their view we want to take away from them their country
+_David Ben Gurion_
 
-**Israeli Arabs have more rights and a higher standard of living than in any other Middle Eastern country. The language in this section is essential to using largely unknown facts to educate the public in order to soften anti-Israeli impressions and win converts. The fact is, few know anything whatsoever about the rights of Arabs within Israel** – _Hasbara: The Israel Project’s 2009 Global Language Dictionary CHAPTER 14 - Talking about Israeli- Arabs_
+> Israeli Arabs have more rights and a higher standard of living than in any other Middle Eastern country. The language in this section is essential to using largely unknown facts to educate the public in order to soften anti-Israeli impressions and win converts. The fact is, few know anything whatsoever about the rights of Arabs within Israel
+_Hasbara: The Israel Project’s 2009 Global Language Dictionary CHAPTER 14 - Talking about Israeli- Arabs_
 
 ### Deconstructing the Narrative 
 
